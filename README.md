@@ -20,7 +20,7 @@ I've put together this simple webpack starter example with the following feature
 Clone the repository:
 
 ```sh
-git clone git@github.com:cgreening/simple-webpack-react-starter.git
+git clone git@github.com:thedanotto/simple-webpack-react-starter.git
 cd simple-webpack-react-starter
 npm install
 npm run dev
@@ -29,7 +29,7 @@ Browse to http://localhost:8080
 If you just want to start a new project without all the commit history then do:
 
 ```sh
-git clone --depth=1 git@github.com:cgreening/simple-webpack-react-starter <your-project-name>
+git clone --depth=1 git@github.com:thedanotto/simple-webpack-react-starter <your-project-name>
 cd <your-project-name>
 npm install
 npm run dev
