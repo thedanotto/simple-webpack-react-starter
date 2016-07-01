@@ -38,17 +38,7 @@ Browse to http://localhost:8080
 
 __Special note for windows users__
 
-`npm run dev` relies on being able to run two commands simultaneously, the server and the webpack dev server. This does not work on windows so you will need to open to command windows and run these commands:
-
-```sh
-npm run dev-web
-```
-
-```sh
-npm run dev-server
-```
-
-You can now browse to `http://localhost:8080`
+Get a new fucking computer, this won't work for you.
 
 ##Live Reload
 
