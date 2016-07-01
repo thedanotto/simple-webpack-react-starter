@@ -40,6 +40,16 @@ __Special note for windows users__
 
 Get a new fucking computer, this won't work for you.
 
+## Deploying to Heroku
+
+    $ npm run build
+    $ git add .
+    $ git commit -m 'built'
+    $ heroku create
+    $ git push heroku master
+
+BOOM IT SHOULD BE LIVE ON HEROKU.
+
 ##Live Reload
 
 In `App` you'll find the single page reach app. Try opening `Components/Header.js' and modifying the text. Hit save and the browser should update with your changes.
