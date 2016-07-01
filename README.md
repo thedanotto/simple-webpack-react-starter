@@ -17,11 +17,13 @@ I've put together this simple webpack starter example with the following feature
 * Testing
 
 ## Getting started
-Clone the repository:
+Clone the repository, remove remote repository, add a new remote repository
 
 ```sh
 git clone git@github.com:thedanotto/simple-webpack-react-starter <your-project-name>
 cd <your-project-name>
+git remote rm origin
+[Create your New Repository and add it as an origin...git remote add origin git@github.com:thedanotto/my-new-repo.git]
 npm install
 npm run dev
 Browse to http://localhost:8080
